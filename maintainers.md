@@ -12,4 +12,5 @@ This file lists how the git basics project is maintained.
 
 ### Clowns
 
-* TBA
+* Krusty
+* Bozo

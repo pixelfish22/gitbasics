@@ -9,3 +9,7 @@ This file lists how the git basics project is maintained.
 ### Maintainers
 
 * [Paul DeCoursey](https://github.com/optimuspaul)
+
+### Clowns
+
+* TBA
